@@ -1,0 +1,6 @@
+C:\Users\chenxin\Documents\GitHub\ObjectQueue\ObjectQueue\bin\Debug\ObjectQueue.exe.config
+C:\Users\chenxin\Documents\GitHub\ObjectQueue\ObjectQueue\bin\Debug\ObjectQueue.exe
+C:\Users\chenxin\Documents\GitHub\ObjectQueue\ObjectQueue\bin\Debug\ObjectQueue.pdb
+C:\Users\chenxin\Documents\GitHub\ObjectQueue\ObjectQueue\obj\Debug\ObjectQueue.csprojResolveAssemblyReference.cache
+C:\Users\chenxin\Documents\GitHub\ObjectQueue\ObjectQueue\obj\Debug\ObjectQueue.exe
+C:\Users\chenxin\Documents\GitHub\ObjectQueue\ObjectQueue\obj\Debug\ObjectQueue.pdb
